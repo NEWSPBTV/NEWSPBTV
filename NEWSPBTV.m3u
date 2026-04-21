@@ -1,68 +1,68 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/2TpGP5VcFyf08G_KfmvBAg,1776840768/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10100/logo_256_1655385292.png", НТВ HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10100/logo_256_1655385292.png", НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/IqonKu33r-JepcabzeJmww,1776840768/streaming/ntvnn/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/3/logo_256_1655391199.png", Пятый канал
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/3/logo_256_1655391199.png", Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/ouV0ehfTfmnef4xpX90MFQ,1776840768/streaming/5kanalott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10032/logo_128_1652790001.png", Первый HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10032/logo_128_1652790001.png", Первый HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/u6RBJzSANlgxeWyZQXys7A,1776840768/streaming/1kanalott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/67/logo_256_1655445200.png", Домашний HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/67/logo_256_1655445200.png", Домашний HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/0ErAPF8G52qRiKORnMtzbg,1776840768/streaming/domashiyott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/129/logo_256_1655445000.png", ТВЦ
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/129/logo_256_1655445000.png", ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/6GYaCTaY0U85uMvtSdQjZw,1776840768/streaming/tvc/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png", РЕН ТВ HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png", РЕН ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/VWJEVsVnmIY1jQ8VZzOmlA,1776840768/streaming/rentvott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1 HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/M9sAJifd_gPHe6FKvliVyg,1776840768/streaming/rossia1ott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i120.fastpic.org/big/2022/0731/50/479ed43fd57b1aa8ffc5922b41badf50.png", ТВЦ International
+#EXTINF:-1 group-title="Общие" tvg-logo="http://i120.fastpic.org/big/2022/0731/50/479ed43fd57b1aa8ffc5922b41badf50.png", ТВЦ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/mhkfraBzazOp2hB5U-4S3g,1776840768/streaming/tvc_int/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/130/logo_256_1655445273.png", ТВ3 HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/130/logo_256_1655445273.png", ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/ppvL-Ntyt1yeW9CJWP5Kiw,1776840768/streaming/tv3ott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/101/logo_256_1655445073.png", ОТР
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/101/logo_256_1655445073.png", ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/dP2G2hYYuhMj1fdDPRUgWw,1776840768/streaming/otr/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/109/logo_256_1655448739.png", Пятница!
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/109/logo_256_1655448739.png", Пятница!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/V52c6d0BJYCG2KsWHaSZJg,1776840768/streaming/pyatnicaott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10184/logo_256_1655452177.png", Суббота
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10184/logo_256_1655452177.png", Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/jVqs7VG4f01-bR5APz6yQg,1776840768/streaming/superott/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/72/logo_256_1655448761.png", Звезда
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/72/logo_256_1655448761.png", Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/q4CoY_Ds_SDNhUu9Wq_s-g,1776840768/streaming/zvezda/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/136/logo_256_1655448788.png", ТНТ HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/136/logo_256_1655448788.png", ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/k-4O6Pu1RcKwoUQOaRAoRg,1776840768/streaming/tntott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png", Звезда плюс
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png", Звезда плюс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/GqEs4qg7YTduCWnGGCBu9Q,1776840768/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/88/logo_256_1655448812.png", МИР
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/88/logo_256_1655448812.png", МИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/-pwvP-JEfck9iD7G0CX_bw,1776840768/streaming/mirott/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/83/logo_256_1655391215.png", Россия К
+#EXTINF:-1 group-title="Общие" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/83/logo_256_1655391215.png", Россия К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/-WmUR2BvQpJr4NSdT9YTJA,1776840768/streaming/rossiak/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i115.fastpic.org/big/2021/0927/3f/97c4a661add2af87dcd6339591fd383f.png", Первый канал (+2)
+#EXTINF:-1 group-title="Общие" tvg-logo="http://i115.fastpic.org/big/2021/0927/3f/97c4a661add2af87dcd6339591fd383f.png", Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/TucDEvl9Sy0Ym9PzPy73zQ,1776840768/streaming/1kanalplus2/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i115.fastpic.org/big/2021/0927/f6/748b67d3577e6cfa688e3644cf8f5df6.png", Первый канал (+6)
+#EXTINF:-1 group-title="Общие" tvg-logo="http://i115.fastpic.org/big/2021/0927/f6/748b67d3577e6cfa688e3644cf8f5df6.png", Первый канал (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/NfI0C0hcMrWeMR10MWmlXg,1776840768/streaming/1kanalplus6/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i122.fastpic.org/big/2023/0705/1b/d54ab9bf7879f503348bd9c0a4d1d11b.png", Россия 1 (+2)
+#EXTINF:-1 group-title="Общие" tvg-logo="http://i122.fastpic.org/big/2023/0705/1b/d54ab9bf7879f503348bd9c0a4d1d11b.png", Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/kWgOVVttP7q5oUhx2qHIVw,1776840768/streaming/rossia1plus2/324/5/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i122.fastpic.org/big/2023/0705/ea/531f4ef8a2f1dbf5a079c9f4332941ea.png", Россия 1 (+6)
+#EXTINF:-1 group-title="Общие" tvg-logo="http://i122.fastpic.org/big/2023/0705/ea/531f4ef8a2f1dbf5a079c9f4332941ea.png", Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/KwlXNOCPs7Z4KR6_0DmFyA,1776840768/streaming/rossia1plus6/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i122.fastpic.org/big/2023/0705/00/6af43b9a873cae4c8fe7e9fbead3dd00.png", Россия 1 (+4)
