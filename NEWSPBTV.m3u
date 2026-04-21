@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/2TpGP5VcFyf08G_KfmvBAg,1776840768/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
