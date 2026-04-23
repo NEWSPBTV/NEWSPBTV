@@ -1684,3 +1684,336 @@ https://mhd128.iptv2022.com/p/FpainJh5YSzTu_-0lTUfkA,1777056927/streaming/8kanal
 https://mhd128.iptv2022.com/p/a8WkkGGjx7-mWQrG8p26hA,1777056927/streaming/tv41/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17214/logo_256_1682687911.png", РБК Пермь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Первый канал Евразия
+http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Первый канал
+http://188.225.31.197/bpk-tv/000001227/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",РОССИЯ 24
+http://188.225.31.197/bpk-tv/000000198/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",РОССИЯ К
+http://188.225.31.197/bpk-tv/000000066/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",РОССИЯ РТР
+http://188.225.31.197/bpk-tv/000000812/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТНТ HD
+http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",НТВ-МИР
+http://188.225.31.197/bpk-tv/000000079/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",НТВ ПРАВО
+http://188.225.31.197/bpk-tv/000002759/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",НТВ СЕРИАЛ
+http://188.225.31.197/bpk-tv/000002760/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",НТВ СТИЛЬ
+http://188.225.31.197/bpk-tv/000002761/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТНТ4
+http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Рен ТВ
+http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Пятница! International
+http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Домашний International
+http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТВ3 International
+http://188.225.31.197/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",СТС International
+http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Discovery channel
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Big Planet HD
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",H2 HD
+http://188.225.31.197/bpk-tv/000002722/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Nat Geo Wild HD
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",History HD
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Viasat Explore HD
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Viasat Nature HD
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Viasat History HD
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ГЛАЗАМИ ТУРИСТА
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТНВ-Планета
+http://188.225.31.197/bpk-tv/000000418/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Animal Planet
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Terra
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Тайны галактики HD
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Техно 24
+http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Планета HD
+http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Живая природа HD
+http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Домашние животные
+http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Зоопарк
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Диалоги о Рыбалке
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Загородная жизнь HD
+http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Поехали!
+http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Рыбалка и охота
+http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Точка отрыва
+http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Здоровое ТВ
+http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Премиум Кино KZ
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Мировое Кино KZ
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Семейное Кино KZ
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Боевик Кино KZ
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Драма Кино KZ
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Сериал Кино KZ
+http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Vip COMEDY
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Vip MEGAHIT
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Vip Premiere
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Vip Serial HD
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",НСТ
+http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Твоё телевидение
+http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Новый игровой канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Start Air HD
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Start World HD
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",.Black
+http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",.RED
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",.SCI-FI
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Amedia 1 HD
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Amedia 2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Amedia HiT HD
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Amedia Premium HD
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Cinema
+http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Hollywood
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",TV1000 Action HD
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",TV1000 HD
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",TV1000 Русское кино
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Дом кино
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Дом Кино Премиум HD
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Еврокино
+http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Кинеко HD
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Ключ
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Мужской
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Fox HD
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Flix Snip
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Fox Life HD
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Дорама HD
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ЛЮБИМОЕ КИНО
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Русский Иллюзион
+http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Иллюзион+
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Феникс+Кино
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Bollywood HD
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Film.UA Drama
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Romance
+http://188.225.31.197/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Suspense
+http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",8 канал
+http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Зал суда
+http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Кто Куда
+http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Оружие
+http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",АВТО 24
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",РБК
+http://188.225.31.197/bpk-tv/000000091/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",RTVI
+http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ВОПРОСЫ И ОТВЕТЫ
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ЕДА
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Мир 24
+http://188.225.31.197/bpk-tv/000002557/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Мир
+http://188.225.31.197/bpk-tv/000002555/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",МИР СЕРИАЛА
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Наша тема
+http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",5 канал
+http://188.225.31.197/bpk-tv/000003718/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",СПАС
+http://188.225.31.197/bpk-tv/000000247/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",TV XXI
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Центральное телевидение
+http://188.225.31.197/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",English Club TV
+http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Аппетитный
+http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Gags network
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",HIT TV
+http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Анекдот ТВ
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Телекафе
+http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Народ Всё Видит
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТВЦ HD
+http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Сапфир
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",31 канал
+http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",5 канал [KZ]
+http://188.225.31.197/bpk-tv/000000950/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Almaty tv
+http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Balapan
+http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Jambyl
+http://188.225.31.197/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Saryarqa
+http://188.225.31.197/bpk-tv/000003146/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Semei
+http://188.225.31.197/bpk-tv/000003250/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",TLC HD
+http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Turan TV
+http://188.225.31.197/bpk-tv/000001404/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Women's Magazine HD
+http://188.225.31.197/bpk-tv/000008065/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Алау ТВ
+http://188.225.31.197/bpk-tv/000001511/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Ирбис
+http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",НТК HD
+http://188.225.31.197/bpk-tv/000000673/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",КТК HD
+http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Новое Телевидение
+http://188.225.31.197/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Перец
+http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Рика
+http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Седьмой канал
+http://188.225.31.197/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Той Думан
+http://188.225.31.197/bpk-tv/000002936/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТВК6 Красноярск
+http://188.225.31.197/bpk-tv/000001516/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТДК 42
+http://188.225.31.197/bpk-tv/000001507/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",АСТАНА
+http://188.225.31.197/bpk-tv/000000666/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Abai TV
+http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Туркестан
+http://188.225.31.197/bpk-tv/000007248/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Euronews
+http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Cartoon Classics
+http://188.225.31.197/bpk-tv/000008795/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",TIJI
+http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",NICK JR
+http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Уникум
+http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Карусель International
+http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Cartoon Network
+http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Cartoonito
+http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Nickelodeon
+http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Nicktoons
+http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Детский мир
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Мульт
+http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Бобер
+http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Лёва
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Лапки LIVE
+http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Da Vinci
+http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",О!
+http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",В гостях у сказки
+http://188.225.31.197/bpk-tv/000002762/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",Gulli Girl
+http://188.225.31.197/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",СТС Kids
+http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ШАНСОН ТВ
+http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",ТНТ Music
+http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",MCM TOP
+http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",1HD
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",MEZZO
+http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",MuzZone
+http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1 group-title="ТаймВэб  🇷🇺",МУЗЫКА ПЕРВОГО
+http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
