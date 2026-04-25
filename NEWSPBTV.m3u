@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🔺 ИНФО 🔺" ,Обновление:25.04.2026
+#EXTINF:-1 group-title="🔺 INFO 🔺" https://i.postimg.cc/FzfCRZ7R/giphy.gif",Обновление:25.04.2026
 
 #EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png", РЕН ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
