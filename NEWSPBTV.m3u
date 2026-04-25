@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="🔺 ИНФО 🔺" ,Обновление:25.04.2026
+
 #EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png", РЕН ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/GUUfL0-OmkoEsRUrZXe7TQ,1777143460/streaming/rentvott/324/5/index.m3u8
@@ -2303,6 +2306,3 @@ http://46.53.208.4:80/live/9-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/8112-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Viasat sport
 http://46.53.208.4:80/live/6005-req_offset_28000000-req_window_0-3k_v5.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers  🇷🇺" ,Русский Экстрим
-http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzcxODgxODMsImlhdCI6MTc3NzEwMTc4MywiY2lkIjo2LCJ1aWQiOjEwMzY2NzkxNDEsInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzc5LCJhZHVsdCI6ZmFsc2V9.ZOe5r7q1wF3TnhBCqkpa0zM0gr8Sf31oGbBQJAQvoNQ&offset=10
