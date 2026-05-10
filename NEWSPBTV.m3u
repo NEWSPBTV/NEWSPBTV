@@ -3896,32 +3896,6 @@ http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/30200/index.m3u8
 #EXTINF:0 tvg-rec="0",Fast Sports 2 HD AM
 #EXTGRP:Спорт
 http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/30201/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.biztv.media/2024/04/30/16/34/9dZeMOuzVyhMJ5AZpszFu4mJowk7nLi0_small.webp" group-title="⚽️ Спортивные",Setanta Sports 1
-https://stream13.itv.uz/t/2zMZzDlOdWMd0vsYfhxjbA/e/1776145720/1263/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.biztv.media/2024/04/30/16/34/tyCqQKtv5yvmeT4YU2PCtg7AEdzqeXcm_small.webp" group-title="⚽️ Спортивные",Setanta Sports 2
-https://stream13.itv.uz/t/2zMZzDlOdWMd0vsYfhxjbA/e/1776145720/1263/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/da09ba3d-82ae-4d47-8e9a-4d934522f4f2.png" group-title="⚽️ Спортивные",Viasat Sport HD
-https://stream2.cinerama.uz/1229/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/90d59b30-09b3-484e-bea8-952da4cfcc46.jpeg" group-title="⚽️ Спортивные",Матч! Планета
-https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/8bf48f18-393d-4553-a8d3-73c602fd0036.png" group-title="⚽️ Спортивные",КХЛ
-https://stream2.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/03/05/851c6f61-d4ec-43e7-b68f-8d90a811a6e3.png" group-title="⚽️ Спортивные",MMA TV
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/b434f380-9aa1-425d-a942-864d676707a9.png" group-title="⚽️ Спортивные",Fuel TV HD
-https://stream2.cinerama.uz/1280/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/1c887f6c-eefc-48a7-8618-1b302f032766.png" group-title="⚽️ Спортивные",Точка Отрыва
-https://stream2.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/87cb45de-8c74-4194-88ca-e5f709c11621.jpeg" group-title="⚽️ Спортивные",Trace Sport Starts HD
-https://stream2.cinerama.uz/1274/tracks-v2a1/mono.m3u8
-
-
-
-
-
-
 #EXTGRP:Спорт
 http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/19430/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 UHD
