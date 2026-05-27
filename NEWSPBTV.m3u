@@ -1699,6 +1699,7 @@ https://mhd128.iptv2022.com/p/f886j4UryxT7UWqbwh4ORw,1779951139/streaming/tv41/3
 
 
 
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers  🇷🇺" ,Первый канал HD +4
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzk5NTExNDAsImlhdCI6MTc3OTg2NDc0MCwiY2lkIjo2LCJ1aWQiOjEwNDg2NjU4NjksInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.ppNYhS4V48FNWYa7sJ_qlyKFaqy82Ex0Ij0PVdw0yOg&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers  🇷🇺" ,Первый канал +4
@@ -2777,7 +2778,7 @@ https://live20.bozztv.com/giatvplayout7/ushba-films-uv/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-films-o/index.m3u8
 #EXTINF:-1 group-title="Usba TV 📺 " tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 22
 https://live20.bozztv.com/giatvplayout7/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="Usba TV 📺 " tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 23
+#EXTINF:-1 group-title="Usba TV 📺 " tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 23        
 https://live20.bozztv.com/giatvplayout7/ushba-films-w/index.m3u8
 #EXTINF:-1 group-title="Usba TV 📺 " tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 24
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
