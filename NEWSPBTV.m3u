@@ -1943,8 +1943,6 @@ http://tchaikovsky.af-stream.com:8080/s/whxqyupu/duo3-ee-hd/video.m3u8
 http://tchaikovsky.af-stream.com:8080/s/whxqyupu/duo5-lt-lv-hd/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo-baltic" tvg-rec="3" timeshift="3" tvg-logo="https://epg.iptvx.one/picons/duo6tv.png" group-title="Кино и сериалы  🎬",Duo 6 Baltic HD
 http://tchaikovsky.af-stream.com:8080/s/whxqyupu/duo6-lt-hd/video.m3u8
-#EXTINF:-1 tvg-id="duo-one-ee" catchup="flussonic" catchup-days="3" group-title="Эстония" tvg-logo="https://epg.iptvx.one/picons/duo-one-ee.png",Duo One HD
-http://tchaikovsky.af-stream.com:8080/s/whxqyupu/duo-one-ee-hd/video.m3u8
 #EXTINF:-1 tvg-id="epik-drama" group-title="Кино и сериалы  🎬" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/epik-drama.png",Epic Drama HD
 http://cdn.balelbrus.com/bigteisti6/epic_drama_hd/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="filmbox-ru" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы  🎬" tvg-logo="https://epg.iptvx.one/picons/filmbox-ru.png",FilmBox+ One
@@ -3388,8 +3386,6 @@ http://cdn.balelbrus.com/bigteisti1/bel_svetloe/index.m3u8?token=eG1lbnRzMnx8V0R
 http://cdn.balelbrus.com/bigteisti2/aa_2_5014/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="smotrim-100-fakty" catchup="flussonic" catchup-days="3" group-title="Познавательные  🔭" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png",Смотрим 100% Факты HD
 http://cdn.balelbrus.com/bigteisti2/aa_2_5016/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
-#EXTINF:-1 tvg-id="smotrim-chestny-detektiv" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/chestny-detektiv.png",Смотрим Честный детектив HD
-http://cdn.balelbrus.com/bigteisti2/aa_2_5017/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="texno-24" catchup="flussonic" catchup-days="3" group-title="Познавательные  🔭" tvg-logo="https://epg.iptvx.one/picons/texno-24.png",Т24
 http://cdn.balelbrus.com/bigteisti2/tehno24/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tayna" catchup="flussonic" catchup-days="3" group-title="Познавательные  🔭" tvg-logo="https://epg.iptvx.one/picons/tayna.png",Тайна
