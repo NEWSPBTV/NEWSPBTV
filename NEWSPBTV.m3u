@@ -1480,7 +1480,6 @@ http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJ
 http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODQwOTgwMjksImlhdCI6MTc4NDAxMTYyOSwiY2lkIjo2LCJ1aWQiOjEwNjYxMDM4MDAsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.R3Dh3Vk-YJLRcQLPzkbVbsrSpAhuFxezGpI3hacvzbQ&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers  🇷🇺" ,Русский Экстрим
 http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODQwOTgwMjksImlhdCI6MTc4NDAxMTYyOSwiY2lkIjo2LCJ1aWQiOjEwNjYxMDM4MDAsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.R3Dh3Vk-YJLRcQLPzkbVbsrSpAhuFxezGpI3hacvzbQ&offset=10
-#EXTINF:-1 group-title="Большое ТВ (VPN)",Первый канал HD
 
 
 
