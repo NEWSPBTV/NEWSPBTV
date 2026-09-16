@@ -3271,9 +3271,6 @@ http://cdntv.online/high/kf28bzwndi/334.m3u8
 #EXTINF:0 tvg-id="335" tvg-logo="http://epg.cdntv.online/img/335.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные 🔭", Красная линия
 #EXTGRP:Познавательные 🔭
 http://cdntv.online/high/kf28bzwndi/335.m3u8
-#EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Кухня ТВ
-#EXTGRP:Кулинарные
-http://cdntv.online/high/kf28bzwndi/336.m3u8
 #EXTINF:0 tvg-id="338" tvg-logo="http://epg.cdntv.online/img/338.png" group-title="Познавательные 🔭", Love Nature HD (EN)
 #EXTGRP:Познавательные 🔭
 http://cdntv.online/high/kf28bzwndi/338.m3u8
@@ -3289,15 +3286,9 @@ http://cdntv.online/high/kf28bzwndi/343.m3u8
 #EXTINF:0 tvg-id="345" tvg-logo="http://epg.cdntv.online/img/345.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные 🔭", Первый вегетарианский HD
 #EXTGRP:Познавательные 🔭
 http://cdntv.online/high/kf28bzwndi/345.m3u8
-#EXTINF:0 tvg-id="346" tvg-logo="http://epg.cdntv.online/img/346.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Победа
-#EXTGRP:Кино
-http://cdntv.online/high/kf28bzwndi/346.m3u8
 #EXTINF:0 tvg-id="347" tvg-logo="http://epg.cdntv.online/img/347.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные 🔭", Приключения HD
 #EXTGRP:Познавательные 🔭
 http://cdntv.online/high/kf28bzwndi/347.m3u8
-#EXTINF:0 tvg-id="348" tvg-logo="http://epg.cdntv.online/img/348.png" group-title="Региональные", Продвижение
-#EXTGRP:Региональные
-http://cdntv.online/high/kf28bzwndi/348.m3u8
 #EXTINF:0 tvg-id="349" tvg-logo="http://epg.cdntv.online/img/349.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные 🔭", Психология 21
 #EXTGRP:Познавательные 🔭
 http://cdntv.online/high/kf28bzwndi/349.m3u8
@@ -3313,18 +3304,7 @@ http://cdntv.online/high/kf28bzwndi/354.m3u8
 #EXTINF:0 tvg-id="359" tvg-logo="http://epg.cdntv.online/img/359.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные 🔭", Центральное телевидение
 #EXTGRP:Познавательные 🔭
 http://cdntv.online/high/kf28bzwndi/359.m3u8
-#EXTINF:0 tvg-id="360" tvg-logo="http://epg.cdntv.online/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ HD
-#EXTGRP:Федеральные
-http://cdntv.online/high/kf28bzwndi/360.m3u8
 #EXTINF:0 tvg-id="361" tvg-logo="http://epg.cdntv.online/img/361.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Новостные", Известия HD
-#EXTGRP:Новостные
-http://cdntv.online/high/kf28bzwndi/361.m3u8
-#EXTINF:0 tvg-id="362" tvg-logo="http://epg.cdntv.online/img/362.png" group-title="Новостные", France 24 HD
-#EXTGRP:Новостные
-http://cdntv.online/high/kf28bzwndi/362.m3u8
-#EXTINF:0 tvg-id="363" tvg-logo="http://epg.cdntv.online/img/363.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Новостные", 360 HD
-#EXTGRP:Новостные
-http://cdntv.online/high/kf28bzwndi/363.m3u8
 #EXTINF:0 tvg-id="366" tvg-logo="http://epg.cdntv.online/img/366.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные 🔭", Galaxy TV
 #EXTGRP:Познавательные 🔭
 http://cdntv.online/high/kf28bzwndi/366.m3u8
