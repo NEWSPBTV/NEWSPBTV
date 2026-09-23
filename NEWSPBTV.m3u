@@ -2242,8 +2242,6 @@ http://stream.mcquack.net/208/index.m3u8
 http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Фильмовые 📽️",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-id="SSSRTV" tvg-logo="https://i.imgur.com/ieONjAZ.png" group-title="Undefined",СССР TV 
-http://str2.iptvhd.ru:8080/sssr_kino/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Фильмовые 📽️",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://i.imgur.com/QpIGAT0.png" group-title="Фильмовые 📽️",Про Любовь HD
