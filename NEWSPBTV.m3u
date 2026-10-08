@@ -2506,8 +2506,72 @@ http://stream.mcquack.net/419/index.m3u8
 
 
 
-
-
+UFO🎭
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Досуг 🎭",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Досуг 🎭",Твоё ТВ Юмор HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rutube-tv.png" tvg-id="no_epg" group-title="Досуг 🎭", Rutube TV
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0n7KfJ7ClPM1At-kR4sR8g&e=2072265313&scheme=https
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://epg.iptvx.one/picons/sts-love.png" group-title="Досуг 🎭",CTC Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" group-title="Досуг 🎭",THT4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=YmLsZ86xBHJzGryIFXgrmg&e=2069500953&scheme=https
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt4.png" tvg-id="tnt4" group-title="Досуг 🎭", ТНТ 4
+https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://epg.iptvx.one/picons/prodvizhenie.png" group-title="Досуг 🎭",Продвижение HD
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russky-ekstrim.png" tvg-id="russky-ekstrim" group-title="Досуг 🎭",Русский экстрим
+#EXTVLCOPT:network-caching=3000
+http://tv.ttk.mx:9095
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png" group-title="Досуг 🎭",КВН ТВ
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="gags-network" tvg-logo="https://epg.iptvx.one/picons/gags-network.png" group-title="Досуг 🎭",Gagsnetwork
+https://tinyurl.com/upwnsw7p/14024/index.m3u8
+#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://epg.iptvx.one/picons/nostalgia.png" group-title="Досуг 🎭",Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://epg.iptvx.one/picons/drive.png" group-title="Досуг 🎭",Драйв
+http://stream8.cinerama.uz/1421/mono.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Телекафе
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Досуг 🎭",Вопросы и ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Время
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Досуг 🎭",Диалоги о Рыбалке
+https://tinyurl.com/upwnsw7p/2394/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Загородная жизнь HD
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="Досуг 🎭",Зал суда
+https://tinyurl.com/teh55yef/7141/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Здоровое ТВ
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir-uvlecheniy.png" tvg-id="mir-uvlecheniy" group-title="Досуг 🎭",Кто Куда
+https://tinyurl.com/4tfv9tup/2112/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Наша Тема
+http://live-3.otcnet.ru/nashatema/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Оружие
+https://tinyurl.com/teh55yef/2087/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Поехали!
+http://tv.ttk.mx:9082
+#EXTINF:-1 group-title="Досуг 🎭",Рыбалка и охота
+http://stream.mcquack.net/155/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Точка отрыва
+https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Досуг 🎭",АВТО 24
+http://stream.mcquack.net/78/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Кухня ТВ
+http://stream.mcquack.net/179/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Досуг 🎭",WF мода HD
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Аппетитный
+https://tinyurl.com/upwnsw7p/9067/index.m3u8
+#EXTINF:-1 group-title="Досуг 🎭",Бобер
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a5cfa43179f7b313920bf743b1cf92191a0302c1-5333794-images-thumbs&n=13" tvg-id="no_epg_music" group-title="Досуг 🎭",Залипательные ролики
+https://lbgo.bozztv.com/07/ushba60/tracks-v1a1/mono.m3u8
 
 Spirt007🎭
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг 🎭",АВТО 24
