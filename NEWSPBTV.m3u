@@ -2509,6 +2509,79 @@ http://stream.mcquack.net/419/index.m3u8
 
 
 
+Spirt007🎭
+#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг 🎭",АВТО 24
+http://stream.mcquack.net/78/index.m3u8
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://epg.iptvx.one/picons/avto-plus.png" group-title="Досуг 🎭",Авто Плюс
+https://stream8.cinerama.uz/1036/index.m3u8
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Досуг 🎭",Драйв
+https://stream8.cinerama.uz/1421/index.m3u8
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://epg.iptvx.one/picons/texno-24.png" group-title="Досуг 🎭",Техно 24
+https://stream8.cinerama.uz/1037/index.m3u8
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Досуг 🎭",Бобер HD
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="Досуг 🎭",Доктор HD
+https://stream8.cinerama.uz/1409/index.m3u8
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Досуг 🎭",Домашние Животные
+https://stream8.cinerama.uz/1426/index.m3u8
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="Досуг 🎭",Дикая Охота HD
+http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="Досуг 🎭",Дикая рыбалка HD
+http://stream.mcquack.net/275/index.m3u8
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="Досуг 🎭",Дикий HD
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Досуг 🎭",Еда
+#EXTINF:-1 tvg-id="zhivi" tvg-logo="https://epg.iptvx.one/picons/zhivi.png" group-title="Досуг 🎭",Живи
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Досуг 🎭",Загородная Жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Досуг 🎭",Загородный HD
+https://stream8.cinerama.uz/1044/index.m3u8
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Досуг 🎭",Здоровое ТВ
+#EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг 🎭",Kulinar TV
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Досуг 🎭",Мужской
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Досуг 🎭",Наша Тема
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="Досуг 🎭",Открытый мир
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Досуг 🎭",Охота и рыбалка HD
+https://stream8.cinerama.uz/1038/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Досуг 🎭",Охотник и рыболов
+https://stream8.cinerama.uz/1413/index.m3u8
+#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Досуг 🎭",Приключения HD
+https://stream8.cinerama.uz/1420/index.m3u8
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Досуг 🎭",Глазами туриста HD
+https://stream8.cinerama.uz/1423/index.m3u8
+#EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Досуг 🎭",Поехали!
+#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Досуг 🎭",Телепутешествия
+#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Досуг 🎭",Светлое ТВ
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://epg.iptvx.one/picons/kuxnia-tv.png" group-title="Досуг 🎭",Кухня
+http://iptv.mega.net.ru:8888/kuhnya_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг 🎭",Kulinar TV
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Досуг 🎭",Тонус
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Досуг 🎭",Точка Отрыва
+https://stream8.cinerama.uz/1031/index.m3u8
+#EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Досуг 🎭",Усадьба HD
+https://stream8.cinerama.uz/1427/index.m3u8
+#EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-title="Досуг 🎭",Первый вегетарианский
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Досуг 🎭",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Cinema
 #EXTGRP:Fresh
