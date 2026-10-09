@@ -1730,18 +1730,12 @@ http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",The Explorers
 http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",Insight TV HD
-http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",Масон ТВ
-http://stream.mcquack.net/346/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Наука
 http://stream.mcquack.net/403/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Фауна
 http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Соль
 http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",One Planet HD
-http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Animal Planet HD
 http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Моя стихия
@@ -1750,10 +1744,6 @@ http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",В мире животных
 http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",36.6 HD
-http://stream.mcquack.net/331/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",Nature Relaxation 
-http://stream.mcquack.net/459/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",TLC
 http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Cinema 
@@ -1768,14 +1758,8 @@ http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Дорама HD
 http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",Kinosweet
-http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Kinowood HD
 http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",Enter-фильм
-http://stream.mcquack.net/322/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",ATR HD
-http://stream.mcquack.net/244/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",4ever Drama HD
 http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",4ever Theater HD
@@ -1872,32 +1856,10 @@ http://stream.mcquack.net/463/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/464/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Kino 2
 http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",ТЕТ HD
-http://stream.mcquack.net/338/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",ПлюсПлюс
-http://stream.mcquack.net/339/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",НТН HD
-http://stream.mcquack.net/326/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Мега
 http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",К1 HD
-http://stream.mcquack.net/270/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",К2 HD
-http://stream.mcquack.net/324/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",2+2
-http://stream.mcquack.net/173/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",ICTV
-http://stream.mcquack.net/158/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",ICTV2
-http://stream.mcquack.net/368/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",СТБ HD
-http://stream.mcquack.net/156/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",1+1 Марафон HD
-http://stream.mcquack.net/172/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Еспресо HD
 http://stream.mcquack.net/84/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club  🇷🇺",Закон ТВ
-http://stream.mcquack.net/406/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",Kino 1 HD
 http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club  🇷🇺",МузТВ
