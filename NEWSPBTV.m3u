@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
 
-#EXTINF:-1 group-title="🍁Обновлен 11.10"
+#EXTINF:-1 group-title="🍁Обновлен 12.10"
 
 
 
@@ -8,417 +8,417 @@
 
 
 
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_256.webp", Первый HD
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_256.webp", Первый HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/OXMaH1AmT0lpb4EE3bWcWg,1791795104/streaming/1kanalott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_256.webp", Россия HD
+https://mhd116.iptv2022.com/x/jkUSAyQZmNJYA807B_CQJQ,1791874231/streaming/1kanalott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_256.webp", Россия HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/GGEMeuxyE7k7fCKkZ6YJsg,1791795104/streaming/rossia1ott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/157/logo_256.webp", Матч ТВ
+https://mhd116.iptv2022.com/x/CBIv6gomvP9wm9Y8d9RtLA,1791874231/streaming/rossia1ott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/157/logo_256.webp", Матч ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/rm2SkXmNQ6YZ7KIvro3tPA,1791795104/streaming/matchott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10100/logo_256.webp", НТВ HD
+https://mhd116.iptv2022.com/x/5c6lA8ck7X65pEZcvcrUHg,1791874231/streaming/matchott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10100/logo_256.webp", НТВ HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Y-Cy9IolwNQdk6iip4bbRw,1791795104/streaming/ntv_msk/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/3/logo_256.webp", Пятый канал
+https://mhd116.iptv2022.com/x/1G02ay-shiLUUtg8pyv4_w,1791874231/streaming/ntv_msk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/3/logo_256.webp", Пятый канал
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/ZW6hGxrJEU1VmAQwEbB-rA,1791795104/streaming/5kanalott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/83/logo_256.webp", Россия К
+https://mhd116.iptv2022.com/x/mK9VhLP_svdi3mce-erVtQ,1791874231/streaming/5kanalott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/83/logo_256.webp", Россия К
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/I6dW49Ozwf8fM_jAVJndaw,1791795104/streaming/rossiak/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/148/logo_256.webp", Россия 24
+https://mhd116.iptv2022.com/x/KhqVbMYDOIeL5TKwRaz6lQ,1791874231/streaming/rossiak/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/148/logo_256.webp", Россия 24
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/HlPYQwtqqt9aTyN23hVOpw,1791795104/streaming/rossia24nn/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/78/logo_256.webp", Карусель
+https://mhd116.iptv2022.com/x/7K8cduVMLo6H9T1UWERbcg,1791874231/streaming/rossia24nn/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/78/logo_256.webp", Карусель
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/lq8BvF1X-maqaX-OdA-q5Q,1791795104/streaming/karusel/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/101/logo_256.webp", ОТР
+https://mhd116.iptv2022.com/x/cVZD9Qu1sIymh4TpETghxg,1791874231/streaming/karusel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/101/logo_256.webp", ОТР
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Wz89wb6k_t6QO24s_lE9HQ,1791795104/streaming/otr/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/129/logo_256.webp", ТВ Центр
+https://mhd116.iptv2022.com/x/zEU7WrJ3yCLApaF9Ns1dZw,1791874231/streaming/otr/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/129/logo_256.webp", ТВ Центр
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/jRDQ9xexffmttb_Fpj4E-w,1791795104/streaming/tvc/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_256.webp", РЕН ТВ
+https://mhd116.iptv2022.com/x/qJoAyweuenhq5EJ5aDjdbQ,1791874231/streaming/tvc/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_256.webp", РЕН ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/uZtroO4vQdcJftfG1yiHNQ,1791795104/streaming/rentvott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/124/logo_256.webp", Спас
+https://mhd116.iptv2022.com/x/L40udq7yTntXEtd3ILIoQw,1791874231/streaming/rentvott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/124/logo_256.webp", Спас
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/wVNYvQ4BtGneZSTKfMmWPA,1791795104/streaming/spas/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/126/logo_256.webp", СТС HD
+https://mhd116.iptv2022.com/x/sl8DlLKlV3WDrt2K5FI33A,1791874231/streaming/spas/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/126/logo_256.webp", СТС HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/i6_2vFbgMyQKh7gVlYspmQ,1791795104/streaming/stsott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/67/logo_256.webp", Домашний
+https://mhd116.iptv2022.com/x/uhGCEf0sqQDRxAkKCIcmyA,1791874231/streaming/stsott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/67/logo_256.webp", Домашний
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/fHKuSLDXMMTg8epz0aNWLA,1791795104/streaming/domashiyott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/130/logo_256.webp", ТВ-3
+https://mhd116.iptv2022.com/x/rqU8XboOVnsqzV-zl4G14Q,1791874231/streaming/domashiyott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/130/logo_256.webp", ТВ-3
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/tPEyhGx3LygNwKFeRHQnTg,1791795104/streaming/tv3ott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/109/logo_256.webp", Пятница!
+https://mhd116.iptv2022.com/x/sGzpOm7Earm-y7EjSnrJpQ,1791874231/streaming/tv3ott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/109/logo_256.webp", Пятница!
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/3JFtu8IGHmjfTSXYTTtG9w,1791795104/streaming/pyatnicaott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/72/logo_256.webp", Звезда
+https://mhd116.iptv2022.com/x/Z0rpilFLvd2QfCd1jJOi1w,1791874231/streaming/pyatnicaott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/72/logo_256.webp", Звезда
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/kgXwb_M0bIZDBikItnQbfA,1791795104/streaming/zvezda/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/88/logo_256.webp", Мир
+https://mhd116.iptv2022.com/x/PI04-qyTqZNSQdp6jImnpA,1791874231/streaming/zvezda/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/88/logo_256.webp", Мир
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/VnpduvR5YzHwci4lT7aH1w,1791795104/streaming/mirott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_256.webp", ТНТ
+https://mhd116.iptv2022.com/x/yGWp_jhOzKXLVhpsN3UAEA,1791874231/streaming/mirott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_256.webp", ТНТ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/ndCxDUyp1LVJ9YaQBIeCfQ,1791795104/streaming/tntott/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/93/logo_256.webp", МУЗ-ТВ
+https://mhd116.iptv2022.com/x/M0psQYxLlUE7NV74s4eHkQ,1791874231/streaming/tntott/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/93/logo_256.webp", МУЗ-ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/nn04E849FaGDyEhyQyfUxg,1791795104/streaming/muztv/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10185/logo_256.webp", Москва 24
+https://mhd116.iptv2022.com/x/nqqWaB9NJnSKm16JeBJMQA,1791874231/streaming/muztv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10185/logo_256.webp", Москва 24
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/svLxdA_BorSZVLPTa4LpyA,1791795104/streaming/moscow24/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10043/logo_256.webp", 360
+https://mhd116.iptv2022.com/x/kRZsbX4VyUzOOyHUL4iWtg,1791874231/streaming/moscow24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10043/logo_256.webp", 360
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/x0UWS-5RH6pzpL9pf5zszg,1791795104/streaming/360sd/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
+https://mhd116.iptv2022.com/x/pRJZccBCst-bc9bfkbuYXQ,1791874231/streaming/360sd/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp", Че
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/15UqO5Fs4XORf9O5ErDpHQ,1791795104/streaming/cheott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp", ТНТ4
+https://mhd116.iptv2022.com/x/n9u1HntIlhLUB-f0pFFSJw,1791874231/streaming/cheott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp", ТНТ4
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/yv64kbo3WAgq05wo7z6exw,1791795104/streaming/tnt4ott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/146/logo_256.webp", Ю
+https://mhd116.iptv2022.com/x/xJ1PNf_W_HW54-FbF4ckdQ,1791874231/streaming/tnt4ott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/146/logo_256.webp", Ю
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/3JbEMIVEaDWJV01YCph2Ow,1791795104/streaming/channelu/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/77/logo_256.webp", Солнце
+https://mhd116.iptv2022.com/x/Z0O5ksCsFwERltXf5ftkVA,1791874231/streaming/channelu/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/77/logo_256.webp", Солнце
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/W5PJoLHh167TEPziQdzgcA,1791795104/streaming/solnce/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png", Соловьев Live
+https://mhd116.iptv2022.com/x/Rupx1-ckYLCuK7Y-_jhgWw,1791874231/streaming/solnce/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png", Соловьев Live
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/L51nv2eDwjCc_UJHq-dtOQ,1791795104/streaming/solovyevlive/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10184/logo_256.webp", Суббота
+https://mhd116.iptv2022.com/x/LYv4b9yvCF7YOmKZjhIE3Q,1791874231/streaming/solovyevlive/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10184/logo_256.webp", Суббота
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/R2BMEDJJjH5ho_HVgr0y5g,1791795104/streaming/superott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/45/logo_256.webp", РУ.ТВ
+https://mhd116.iptv2022.com/x/MlrnXxmPncKCj2z5phFagA,1791874231/streaming/superott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/45/logo_256.webp", РУ.ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/voqkBuTJ-QsnDJPLIo615w,1791795104/streaming/rutvnn/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10259/logo_256.webp", СТС Love
+https://mhd116.iptv2022.com/x/xK4a1MNre8EmCe8irkZilQ,1791874231/streaming/rutvnn/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10259/logo_256.webp", СТС Love
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/AIf2VVxozO7a5L902ZhM6g,1791795104/streaming/stsloveott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png", Феникс+ Кино
+https://mhd116.iptv2022.com/x/ZuV6GL24P9OjX7YGVBDiMQ,1791874231/streaming/stsloveott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png", Феникс+ Кино
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/A-MGuoTjkIaSXSPLBZRBGw,1791795104/streaming/fenixkino/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/1/logo_256_1705554875.png", 2x2
+https://mhd116.iptv2022.com/x/jx6e_pn4Pdu73TwYlfKmpw,1791874231/streaming/fenixkino/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/1/logo_256_1705554875.png", 2x2
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/5hKvIUc_PGtgAccfN4bCUw,1791795104/streaming/2x2/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10062/logo_256_1655452236.png", Красная линия
+https://mhd116.iptv2022.com/x/tfACdT3bD8UJbhCgiCXU7g,1791874231/streaming/2x2/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10062/logo_256_1655452236.png", Красная линия
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/oa-4qMv160XVnWkgyBBBaQ,1791795104/streaming/redline/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10143/logo_256_1655452209.png", Известия
+https://mhd116.iptv2022.com/x/Yjx7m0KDX2GuGmKJVVrhRw,1791874231/streaming/redline/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10143/logo_256_1655452209.png", Известия
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/e3MIw2wjJbp9o2S0tRXN-Q,1791795104/streaming/izvestia/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png", Тайны Галактики
+https://mhd116.iptv2022.com/x/2Uyar3t8eV6oxHh9JHkryw,1791874231/streaming/izvestia/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png", Тайны Галактики
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/jckRZaskmJkZqluimNh3ag,1791795104/streaming/taina-galaxy/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10289/logo_256_1658737584.png", Советские мультфильмы
+https://mhd116.iptv2022.com/x/JnxvQ1gMDYM26AshL6lHTg,1791874231/streaming/taina-galaxy/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10289/logo_256_1658737584.png", Советские мультфильмы
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/ib3WsNB4YbuPffBqCSE-Hw,1791795104/streaming/rusmult/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
+https://mhd116.iptv2022.com/x/UOGXvbNlBVjcE9x_eDczqw,1791874231/streaming/rusmult/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/d1GW7Kpl61WF9r6aVDzLvg,1791795104/streaming/oribalke/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29737/logo_256.png", Кино и Жизнь
+https://mhd116.iptv2022.com/x/rE4ZZ2NuLsiJRhl89fTVwQ,1791874231/streaming/oribalke/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29737/logo_256.png", Кино и Жизнь
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/5CrK-j_5bAi-rHEgkcr2GA,1791795104/streaming/kino_live/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png", TV XXI
+https://mhd116.iptv2022.com/x/S8CIhfQniLAufWIaetwa2w,1791874231/streaming/kino_live/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png", TV XXI
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/znQC5HemuLLyy66js1RJlA,1791795104/streaming/tv_xxi/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/112/logo_256_1658737400.png", РБК
+https://mhd116.iptv2022.com/x/PIpCio73WU-VMrQaHc8HYg,1791874231/streaming/tv_xxi/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/112/logo_256_1658737400.png", РБК
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/x7iXX0OrQrdz6HdXgx7OxA,1791795104/streaming/rbk/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png", Центральное ТВ
+https://mhd116.iptv2022.com/x/zWA5SxdQNcp2CVMyxN5m9Q,1791874231/streaming/rbk/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10135/logo_256_1660809965.png", Центральное ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/0idu2MoWldhMrJnCnR0M8w,1791795104/streaming/centrtv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10676/logo_256_1660828620.png", Глазами туриста
+https://mhd116.iptv2022.com/x/Sf5NvKIN0NxgUl3tFX1r0A,1791874231/streaming/centrtv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10676/logo_256_1660828620.png", Глазами туриста
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/tP0pj5giNbFlp6s57aCuVA,1791795104/streaming/tourist_eyes/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/52/logo_256_1660800445.png", BRIDGE CLASSIC
+https://mhd116.iptv2022.com/x/XNFcijbcrEm1zqdnSGrJOw,1791874231/streaming/tourist_eyes/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/52/logo_256_1660800445.png", BRIDGE CLASSIC
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/E2kRo-UxBr_c0VM2brD3OA,1791795104/streaming/br_classic/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16/logo_256_1658733566.png", BRIDGE HITS
+https://mhd116.iptv2022.com/x/CmxewWzwlKEbf_UBOmBJ0A,1791874231/streaming/br_classic/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16/logo_256_1658733566.png", BRIDGE HITS
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/EuAHcE-hXb8qwV0mAy-CNA,1791795104/streaming/br_dance/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/46/logo_256_1658733605.png", BRIDGE РУССКИЙ ХИТ
+https://mhd116.iptv2022.com/x/ggfBROZWNg8lCZmjlQCIuw,1791874231/streaming/br_dance/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/46/logo_256_1658733605.png", BRIDGE РУССКИЙ ХИТ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/5UuVzEdnwjSCdWrxf4VS7Q,1791795104/streaming/br_rushit/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12356/logo_256_1678781216.png", BRIDGE ROCK
+https://mhd116.iptv2022.com/x/pxQwrxPttMT3VZ1G8vXpvQ,1791874231/streaming/br_rushit/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12356/logo_256_1678781216.png", BRIDGE ROCK
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/tMHhaeApJRQLyAMQSfXTQw,1791795104/streaming/br_rock/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11173/logo_256_1660828534.png", BRIDGE ШЛЯГЕР
+https://mhd116.iptv2022.com/x/eDvuj-kpLrUjfMv1BqJJ4g,1791874231/streaming/br_rock/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11173/logo_256_1660828534.png", BRIDGE ШЛЯГЕР
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/KRqj6seI6qnfHa4QvAqn1Q,1791795104/streaming/br_shlyager/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11166/logo_256_1660828570.png", BRIDGE DELUXE
+https://mhd116.iptv2022.com/x/rkfsDmvSagza26XlJEzmpA,1791874231/streaming/br_shlyager/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11166/logo_256_1660828570.png", BRIDGE DELUXE
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/-9MQkUbZB3U66bOr2k2PAw,1791795104/streaming/br_delux/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/19139/logo_256_1690979070.png", BRIDGE Фрэш
+https://mhd116.iptv2022.com/x/Z4ItthCkO0ugBc9-9-LQvQ,1791874231/streaming/br_delux/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/19139/logo_256_1690979070.png", BRIDGE Фрэш
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/PRHX-wfHTtP4pL9O-67tVQ,1791795104/streaming/br_fresh/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29338/logo_256.png", BRIDGE ЭТНО
+https://mhd116.iptv2022.com/x/W8MCftYrE4wu3HMacMXwLQ,1791874231/streaming/br_fresh/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29338/logo_256.png", BRIDGE ЭТНО
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/K6UqyvGthQwyMf68R99G4g,1791795104/streaming/bridge_etno/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14/logo_256_1658733588.png", BRIDGE
+https://mhd116.iptv2022.com/x/Q2DrnCJEwGMJapjdUqQS8g,1791874231/streaming/bridge_etno/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14/logo_256_1658733588.png", BRIDGE
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/NRPsMuXMk-RHcXK6rA_8RA,1791795104/streaming/bridgetv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26118/logo_256_1717161033.png", Мир сериала
+https://mhd116.iptv2022.com/x/tFcZtl0iIzwE2b1aZvIfqA,1791874231/streaming/bridgetv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26118/logo_256_1717161033.png", Мир сериала
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Q5HqP7Hu1nAl_J5ObcT0YA,1791795104/streaming/mir_seriala/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14862/logo_256_1680258355.png", Наше старое кино
+https://mhd116.iptv2022.com/x/iNjI_GzP4_FgN9K9gqBuxQ,1791874231/streaming/mir_seriala/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14862/logo_256_1680258355.png", Наше старое кино
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/2Zu7Df4uzSp-UTZg_tvPeA,1791795104/streaming/public_dom/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/96/logo_256_1669621639.png", Мультиландия
+https://mhd116.iptv2022.com/x/f-JfcJZBzr4TlCZPT6K1BA,1791874231/streaming/public_dom/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/96/logo_256_1669621639.png", Мультиландия
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/FT9W7HYZDIwY3sh5U14YAQ,1791795104/streaming/multimania/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10220/logo_256_1655449233.png", Детский Мир
+https://mhd116.iptv2022.com/x/gtxnQFdHwk-tE5vmV4FW_Q,1791874231/streaming/multimania/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10220/logo_256_1655449233.png", Детский Мир
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/OFzjBHgRISyhvFsgkIiDIA,1791795104/streaming/detmir/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14225/logo_256_1660810197.png", Телеканал HHQ
+https://mhd116.iptv2022.com/x/44ABri8ohq6sOa8oO0bX5w,1791874231/streaming/detmir/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14225/logo_256_1660810197.png", Телеканал HHQ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Vi3JJFkHktJcs6v76E6DEA,1791795104/streaming/hhq/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png", Океан HD
+https://mhd116.iptv2022.com/x/kwPTEC8K8Bd1GAQz_387RQ,1791874231/streaming/hhq/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png", Океан HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/QqH5epqMhK2yzwoW7gjaKA,1791795104/streaming/oceantv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10257/logo_256_1658733714.png", Fashion TV
+https://mhd116.iptv2022.com/x/Tuq4j4dqlc_FYn9iNkgNZg,1791874231/streaming/oceantv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10257/logo_256_1658733714.png", Fashion TV
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/FJ67oASXCwj12eCK8vUsOw,1791795104/streaming/fashion/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16052/logo_256_1671601595.png", Quadro 4K
+https://mhd116.iptv2022.com/x/JTWICBdgWlhejKidY3_SKg,1791874231/streaming/fashion/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16052/logo_256_1671601595.png", Quadro 4K
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/2e4zZd-sKd3-hogAxziVZw,1791795104/streaming/quadrohd/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10476/logo_256_1658734432.png", Детское кино
+https://mhd116.iptv2022.com/x/BwST9NHdWCaY3GCLdSFr1Q,1791874231/streaming/quadrohd/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10476/logo_256_1658734432.png", Детское кино
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/YiWkZ5OrkvDf7R11ynEgsw,1791795104/streaming/det_kino/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10141/logo_256_1658737383.png", Ратник
+https://mhd116.iptv2022.com/x/3xTEsZizY3Oefxnwe_J_7Q,1791874231/streaming/det_kino/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10141/logo_256_1658737383.png", Ратник
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/dHKPSB1owUQgtPjxukFeDA,1791795104/streaming/ratnik/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10290/logo_256_1658737599.png", Советское кино
+https://mhd116.iptv2022.com/x/kjH4PvZxkFkZClRabfStdw,1791874231/streaming/ratnik/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10290/logo_256_1658737599.png", Советское кино
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/2EiYsv4m66izejkTFIiYiA,1791795104/streaming/sovietmovs/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10384/logo_256_1658737285.png", Перпетуум Мобиле
+https://mhd116.iptv2022.com/x/DbVEZ55_LfMvLIyE-sfjOQ,1791874231/streaming/sovietmovs/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10384/logo_256_1658737285.png", Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/NF-HIKVLL4YXpEeOJgoR7Q,1791795104/streaming/pmobile/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10219/logo_256_1658734632.png", ЕГЭ
+https://mhd116.iptv2022.com/x/LnZgW5CGAB40kTwyjE3EOw,1791874231/streaming/pmobile/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10219/logo_256_1658734632.png", ЕГЭ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/O6vDMkETb6zSwlpgZ7gi5Q,1791795104/streaming/ege/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/28561/logo_256_1727870097.png", ВКУС
+https://mhd116.iptv2022.com/x/HeaGj-lpHLGDDvUI2mwPmA,1791874231/streaming/ege/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/28561/logo_256_1727870097.png", ВКУС
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/H41AuIDrFsda_LC_HmKHwQ,1791795104/streaming/vkus_tv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/21/logo_256_1658733697.png", Europa Plus TV
+https://mhd116.iptv2022.com/x/cW5Fqv7OZEl1yc2SK6aiHA,1791874231/streaming/vkus_tv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/21/logo_256_1658733697.png", Europa Plus TV
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/IwrZ55_7Bd_U4aT09FQJtQ,1791795104/streaming/evropaplus/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10387/logo_256_1658733779.png", Joy cook
+https://mhd116.iptv2022.com/x/ZWOx92ECaZzMNb6eLvzKeg,1791874231/streaming/evropaplus/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10387/logo_256_1658733779.png", Joy cook
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/ETQzYtfJWdmPXyjDrRepYw,1791795104/streaming/joycook/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10221/logo_256_1658737228.png", Первый Вегетарианский
+https://mhd116.iptv2022.com/x/mK5im1E5ciaXPihCmRQ-kg,1791874231/streaming/joycook/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10221/logo_256_1658737228.png", Первый Вегетарианский
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/kfB0M50NhQ-7TBwEgrKLGg,1791795104/streaming/firstvegan/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10223/logo_256_1658736783.png", ЛДПР ТВ
+https://mhd116.iptv2022.com/x/dpQMCImuZF4xFjaFo9nzPw,1791874231/streaming/firstvegan/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10223/logo_256_1658736783.png", ЛДПР ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/ITZ9iRIeUC28ND8lMK3Upg,1791795104/streaming/ldprlive/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10140/logo_256_1661855687.png", МИР-24
+https://mhd116.iptv2022.com/x/a7KrxLySciwx1zkyGgF5MA,1791874231/streaming/ldprlive/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10140/logo_256_1661855687.png", МИР-24
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/3A66fa8Dp3LvrZq4Lk6Umg,1791795104/streaming/mir24/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10074/logo_256_1658736572.png", Калейдоскоп ТВ
+https://mhd116.iptv2022.com/x/ilU29fqP6NskDBrduauUYw,1791874231/streaming/mir24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10074/logo_256_1658736572.png", Калейдоскоп ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/qrAkaMjyWA42ye-B938UFw,1791795104/streaming/kaleidoskop/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10081/logo_256_1658733465.png", 8 Канал
+https://mhd116.iptv2022.com/x/Amyu_nq4XlcVGN_R-NZ4yA,1791874231/streaming/kaleidoskop/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10081/logo_256_1658733465.png", 8 Канал
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Z0_5wEemCeNCA2ah8mivxg,1791795104/streaming/8kanal/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10388/logo_256_1658734603.png", Дума ТВ
+https://mhd116.iptv2022.com/x/Fi4QJTs47NZ6t19cG2O9KA,1791874231/streaming/8kanal/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10388/logo_256_1658734603.png", Дума ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/KMnaBzWDjfDIjHI1onCKsw,1791795104/streaming/dumatv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10286/logo_256_1658736631.png", КиноМеню HD
+https://mhd116.iptv2022.com/x/4ro70i635qMT7-jNPdKAZg,1791874231/streaming/dumatv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10286/logo_256_1658736631.png", КиноМеню HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/ikharuPDXcTdx41ZSutzPw,1791795104/streaming/kinomenu/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10287/logo_256_1658736730.png", Классика кино
+https://mhd116.iptv2022.com/x/198ckm2irv7CTe0xtp7rVQ,1791874231/streaming/kinomenu/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10287/logo_256_1658736730.png", Классика кино
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/TLu1UYJiZmZwnig6yOzynQ,1791795104/streaming/k_kino/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10383/logo_256_1658736686.png", КиноСезон
+https://mhd116.iptv2022.com/x/_6d6nD4mrKmcO1v5xAx0hw,1791874231/streaming/k_kino/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10383/logo_256_1658736686.png", КиноСезон
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/jSszgvA302aPtl8wS0yILQ,1791795104/streaming/kinosezon/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/15786/logo_256_1694427058.png", Horror TV
+https://mhd116.iptv2022.com/x/sLlNn7BzQMLlDQagofyokw,1791874231/streaming/kinosezon/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/15786/logo_256_1694427058.png", Horror TV
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/54suy-QybKV9Q5p47Q0O5A,1791795104/streaming/horror_tv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10092/logo_256_1658744631.png", Точка ТВ
+https://mhd116.iptv2022.com/x/KAxi9JAW8XYmz7ZhCLhfEQ,1791874231/streaming/horror_tv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10092/logo_256_1658744631.png", Точка ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/t8m22HAdT57hBO64vnBy4Q,1791795104/streaming/tochka/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10385/logo_256_1658737896.png", Терра Инкогнита
+https://mhd116.iptv2022.com/x/MnU8kfZX5nkc-V3-LwQrEg,1791874231/streaming/tochka/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10385/logo_256_1658737896.png", Терра Инкогнита
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/M2-yuxN5DoQpxRTv2aO5dg,1791795104/streaming/terra/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10675/logo_256_1658734683.png", Живая природа
+https://mhd116.iptv2022.com/x/J689sr4PoEWyx8c0YLY5uw,1791874231/streaming/terra/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10675/logo_256_1658734683.png", Живая природа
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/3PGu3kyWdvW1cdqsT7JwjQ,1791795104/streaming/livenature/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/27266/logo_256_1723103951.png", Конгресс ТВ
+https://mhd116.iptv2022.com/x/BkAcyKnHnBD_O3KqV3ldeg,1791874231/streaming/livenature/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/27266/logo_256_1723103951.png", Конгресс ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/PH2f3X_7UmQhN6hA3q1d5w,1791795104/streaming/tvkongres/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10430/logo_256_1660805856.png", МультСезон
+https://mhd116.iptv2022.com/x/NOEUB-d3q9k9JYKcPbLQXw,1791874231/streaming/tvkongres/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10430/logo_256_1660805856.png", МультСезон
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/azHdlOFOgGWl9FULYsvAIQ,1791795104/streaming/multsezon/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10147/logo_256_1658737300.png", Пес и Ко
+https://mhd116.iptv2022.com/x/sG_P9bXZf3nixtgTekwN_A,1791874231/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10147/logo_256_1658737300.png", Пес и Ко
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/w4ET7WXDn1TksZ-FI0KY9A,1791795104/streaming/pesiko/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10133/logo_256_1658734327.png", Вместе-РФ
+https://mhd116.iptv2022.com/x/8I_7NiLYIi9sJlgoOVYWIA,1791874231/streaming/pesiko/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10133/logo_256_1658734327.png", Вместе-РФ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/FrS6KzSWKfCoAlL4cKuCnQ,1791795104/streaming/vmeste-rf/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10102/logo_256_1660809994.png", Шансон ТВ
+https://mhd116.iptv2022.com/x/nOWvcggM-MezIcwRe0D97w,1791874231/streaming/vmeste-rf/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10102/logo_256_1660809994.png", Шансон ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/b4uufTiTDzqnONV78xtsQg,1791795104/streaming/shanson/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/142/logo_256_1658744711.png", Успех
+https://mhd116.iptv2022.com/x/rG6FQuUaayLYMGlQpafYXQ,1791874231/streaming/shanson/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/142/logo_256_1658744711.png", Успех
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/ak927xBpCPlkzqUDENLl-Q,1791795104/streaming/uspeh/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10345/logo_256_1658734259.png", Большая Азия
+https://mhd116.iptv2022.com/x/9lWgiIfEyumBWKUYE2fKwA,1791874231/streaming/uspeh/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10345/logo_256_1658734259.png", Большая Азия
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/OtrWqNPTGU75nR9K1kdSsw,1791795104/streaming/bigasia/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10061/logo_256_1658733635.png", RT
+https://mhd116.iptv2022.com/x/haPSnj5iDVEMYm_e5fggSA,1791874231/streaming/bigasia/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10061/logo_256_1658733635.png", RT
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/QtHvqPApvunHOoXkqv6ffA,1791795104/streaming/rt_eng/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10098/logo_256_1658733845.png", RTД
+https://mhd116.iptv2022.com/x/eLvduJkklE9H8pfVwmbsmg,1791874231/streaming/rt_eng/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10098/logo_256_1658733845.png", RTД
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/-uxFuFuRvaaHFtOIHCPUAQ,1791795104/streaming/rtdhd/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10651/logo_256.png", RT DOC Eng
+https://mhd116.iptv2022.com/x/FLLGTwqaM9tfkflEryhNQA,1791874231/streaming/rtdhd/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10651/logo_256.png", RT DOC Eng
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/IO3zgMgjW_gwIQCuQEhabA,1791795104/streaming/rtdoc_eng/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31249/logo_256.webp", Союзный
+https://mhd116.iptv2022.com/x/TYUUnF4Gc07Wm2XU_3GGlw,1791874231/streaming/rtdoc_eng/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31249/logo_256.webp", Союзный
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/WQMSzFsG2cm6ZFC4TJkTYg,1791795104/streaming/souzniy/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10545/logo_256_1660804427.png", Беларусь 24
+https://mhd116.iptv2022.com/x/JaNHkd5nCDOLDokKM8JZPg,1791874231/streaming/souzniy/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10545/logo_256_1660804427.png", Беларусь 24
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/7emWEm031WwehPuxyTfzrQ,1791795104/streaming/belarus24/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10653/logo_256.png", RT France
+https://mhd116.iptv2022.com/x/uqtuXAcpZLpv22DyiAMQOQ,1791874231/streaming/belarus24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10653/logo_256.png", RT France
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/0WmItFGrLt7FgYLVumQ3Vw,1791795104/streaming/rt_fra/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26965/logo_256.png", RT Deutsch
+https://mhd116.iptv2022.com/x/M-d4A_J6Q1bzItVPql5Lag,1791874231/streaming/rt_fra/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26965/logo_256.png", RT Deutsch
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/OuPNCG2lItFQTVawmER3xQ,1791795104/streaming/rt_deu/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/24998/logo_256.png", RT Español
+https://mhd116.iptv2022.com/x/3Oal_vGL8dPNuS6LFcws1A,1791874231/streaming/rt_deu/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/24998/logo_256.png", RT Español
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/kdhBcl6Ves9UiJROStDXsQ,1791795104/streaming/rt_esp/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31316/logo_256.webp", КлюкваТВ
+https://mhd116.iptv2022.com/x/32JW-l4WHsUQo8B31mkRSw,1791874231/streaming/rt_esp/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31316/logo_256.webp", КлюкваТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/BA6AAkWDf8MA7Ary0VpS8w,1791795104/streaming/klukva_tv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/22121/logo_256.png", RT Arabic
+https://mhd116.iptv2022.com/x/R4TXJ_CbGOPrOqa8BfHkcA,1791874231/streaming/klukva_tv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/22121/logo_256.png", RT Arabic
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/pC3czMQGRRCexifg_EJL0w,1791795104/streaming/rt_arab/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10377/logo_256_1717161074.png", 360 Новости
+https://mhd116.iptv2022.com/x/6cWpL7hKDD2k9sBmKIRdrA,1791874231/streaming/rt_arab/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10377/logo_256_1717161074.png", 360 Новости
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/FA149h8yYwdTMPfCWTX_mg,1791795104/streaming/360news/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10222/logo_256_1658737177.png", Открытый мир
+https://mhd116.iptv2022.com/x/QksQWtYJlL9mCLuLSzAd9g,1791874231/streaming/360news/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10222/logo_256_1658737177.png", Открытый мир
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/zt5p3sw_qhz11YOfMZlBsQ,1791795104/streaming/openmir/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10646/logo_256_1655388613.png", Полёт ТВ
+https://mhd116.iptv2022.com/x/57uQ11duWzmo0OgPuolBNg,1791874231/streaming/openmir/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10646/logo_256_1655388613.png", Полёт ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/3fhmD3aQA0aA6q7W6n8x5A,1791795104/streaming/polet/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10647/logo_256_1660803814.png", АКВА ТВ
+https://mhd116.iptv2022.com/x/jjJMeGb4z7_qnozK2hPjDA,1791874231/streaming/polet/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10647/logo_256_1660803814.png", АКВА ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/9h7GEXGzI5Xw1YdArLqFeg,1791795104/streaming/aqua/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10666/logo_256_1655389321.png", Arirang
+https://mhd116.iptv2022.com/x/qHtnzKS0e-HVYricsrVbFg,1791874231/streaming/aqua/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10666/logo_256_1655389321.png", Arirang
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/sO1cPNPKCRdIwiOTvZNepg,1791795104/streaming/arirang/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10618/logo_256_1655389346.png", TV BRICS
+https://mhd116.iptv2022.com/x/HKmjXb6zOKXXwR7UVacKnw,1791874231/streaming/arirang/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10618/logo_256_1655389346.png", TV BRICS
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/6n6UHrp4xxJD510ilWF9JA,1791795104/streaming/briks/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10641/logo_256_1660892186.png", Телеканал народной музыки
+https://mhd116.iptv2022.com/x/8rOFgQNCTx5oADvOOITvzQ,1791874231/streaming/briks/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10641/logo_256_1660892186.png", Телеканал народной музыки
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/zytPPibKmvruQ15y4tsJBQ,1791795104/streaming/folk_music/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10670/logo_256_1658736096.png", Здоровье
+https://mhd116.iptv2022.com/x/APuqbvaIBAa0tNN6mhqNNw,1791874231/streaming/folk_music/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10670/logo_256_1658736096.png", Здоровье
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/3i2PrO40N5DNWvgqUmcPuQ,1791795104/streaming/zdrav/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/15674/logo_256_1669288072.png", BABY TIME
+https://mhd116.iptv2022.com/x/xA1O45v7uoJDWURZc9GbdQ,1791874231/streaming/zdrav/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/15674/logo_256_1669288072.png", BABY TIME
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/NuoAsexMf8BYjVHCw_2QmQ,1791795104/streaming/baby_time/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10674/logo_256_1660828644.png", Живи Активно
+https://mhd116.iptv2022.com/x/GgppIGhgvp3l5ln6BERRrQ,1791874231/streaming/baby_time/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10674/logo_256_1660828644.png", Живи Активно
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/qSHALM-SkP2mi8UeepT3Og,1791795104/streaming/zhivi_aktivno/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10386/logo_256_1658737079.png", Неизвестная планета
+https://mhd116.iptv2022.com/x/BiDYFw7SyOd1kyOzPevgHQ,1791874231/streaming/zhivi_aktivno/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10386/logo_256_1658737079.png", Неизвестная планета
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/1wmYFqTi3Co5ihmq9Ep85g,1791795104/streaming/np/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10264/logo_256_1658734669.png", Жара
+https://mhd116.iptv2022.com/x/o3ly3sx-itYRcAamlt9oTA,1791874231/streaming/np/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10264/logo_256_1658734669.png", Жара
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/F0Rb7-ZOqrTvLqlbwHDC8Q,1791795104/streaming/myhouse/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10046/logo_256_1658737433.png", РЖД ТВ
+https://mhd116.iptv2022.com/x/sXj_okT2N3Tp82_WFU8iVg,1791874231/streaming/myhouse/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10046/logo_256_1658737433.png", РЖД ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/_ZN1A337ndIqDB6PkwqxyQ,1791795104/streaming/rjd/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11159/logo_256_1655386039.png", Загородная Жизнь
+https://mhd116.iptv2022.com/x/dlRNLxdklydsdWqmJ_d6oA,1791874231/streaming/rjd/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11159/logo_256_1655386039.png", Загородная Жизнь
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/IwIBnsMnlwW_w0CvdW0FoA,1791795104/streaming/zagorod/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12384/logo_256_1655390600.png", Travelxp HD
+https://mhd116.iptv2022.com/x/4UchLw0fjFaYr9oM5b55ZQ,1791874231/streaming/zagorod/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12384/logo_256_1655390600.png", Travelxp HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/FU1P9sSRln1An-o1krw8Xg,1791795104/streaming/travelxp/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12391/logo_256_1655389526.png", Clubbing TV HD
+https://mhd116.iptv2022.com/x/JN-iLa5BD0pedJkQePL17Q,1791874231/streaming/travelxp/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12391/logo_256_1655389526.png", Clubbing TV HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/F8KiSh7f_5hjJkpPg52piw,1791795104/streaming/clubbingtv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26734/logo_256_1718620692.png", Аппетитный
+https://mhd116.iptv2022.com/x/Y1W6kviEmSxp9gGYN6u6tA,1791874231/streaming/clubbingtv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26734/logo_256_1718620692.png", Аппетитный
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/hMUo1MmVl0_MCeff7d0QtQ,1791795104/streaming/appetitniy/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16528/logo_256_1675429328.png", АРТ
+https://mhd116.iptv2022.com/x/TmzYGIfOg8D2jGFU5mrG7g,1791874231/streaming/appetitniy/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16528/logo_256_1675429328.png", АРТ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/UF-JYoJvO9pyswbnIO8OZg,1791795104/streaming/art_tv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31351/logo_256.webp", НТВ Своя игра
+https://mhd116.iptv2022.com/x/skiKSQkGUoNX4XPU6KTvMg,1791874231/streaming/art_tv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31351/logo_256.webp", НТВ Своя игра
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/UhRejo7bhztd-1TiYU_1vA,1791795104/streaming/svoya_igra_hd/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31358/logo_256.webp", НТВ Следствие вели
+https://mhd116.iptv2022.com/x/v14Gm4Gasu1f-u9usW1sjg,1791874231/streaming/svoya_igra_hd/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31358/logo_256.webp", НТВ Следствие вели
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/K56zVXHhsI0b02SLVCPyXw,1791795104/streaming/sledstvie_veli_hd/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17340/logo_256.webp", НТВ Неизвестная Россия
+https://mhd116.iptv2022.com/x/xVGuuQ_CRPEe_w2XGMH-fA,1791874231/streaming/sledstvie_veli_hd/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17340/logo_256.webp", НТВ Неизвестная Россия
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/u1bcLYk92moYC_vGPzpbtA,1791795104/streaming/unknown_russia/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/19734/logo_256_1697699059.png", Silk Way Cinema
+https://mhd116.iptv2022.com/x/ZF6VZ4RDDPLEc0Reo2ph5Q,1791874231/streaming/unknown_russia/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/19734/logo_256_1697699059.png", Silk Way Cinema
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/W8KjcAkY7C0YkLl12P4KKQ,1791795104/streaming/silk_way_cinema/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/123/logo_256_1658737619.png", Союз
+https://mhd116.iptv2022.com/x/XWuCe71HcHkuCLso2uXchQ,1791874231/streaming/silk_way_cinema/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/123/logo_256_1658737619.png", Союз
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/msy0v7VWXykwCySPCNYnPg,1791795104/streaming/souz/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26727/logo_256_1718620704.png", Мы
+https://mhd116.iptv2022.com/x/w9Bt1anLUQfu86OHzzj8VA,1791874231/streaming/souz/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26727/logo_256_1718620704.png", Мы
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/MQ6zJrV5Au1A7-YMg0sRlQ,1791795104/streaming/we_tv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29149/logo_256_1731069588.png", Волейбол
+https://mhd116.iptv2022.com/x/cteYuxJlQAi8zzn64UTWYg,1791874231/streaming/we_tv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29149/logo_256_1731069588.png", Волейбол
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/YfmsMhRfTKxaA6QLuW1egg,1791795104/streaming/volleyball/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/30829/logo_256.png", САНГАТ
+https://mhd116.iptv2022.com/x/wu3iMaq-4wna0ZUS3P0lNQ,1791874231/streaming/volleyball/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/30829/logo_256.png", САНГАТ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/UdumaQkLUuMdRT_EtzB5-g,1791795104/streaming/sangat/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10648/logo_256_1655388871.png", Светлое ТВ
+https://mhd116.iptv2022.com/x/a_hnCVBqgpRZ5BNl06nD7g,1791874231/streaming/sangat/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10648/logo_256_1655388871.png", Светлое ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/8ledO__9cQBJSJDFGK0sBQ,1791795104/streaming/svetloetv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/149/logo_256_1660802630.png", LUXURY
+https://mhd116.iptv2022.com/x/TT2lqIVV0RAtPcQ3bxHKZA,1791874231/streaming/svetloetv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/149/logo_256_1660802630.png", LUXURY
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/39OUhIT71U-gG1RBISY93g,1791795104/streaming/luxury/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10064/logo_256_1658733449.png", 7ТВ
+https://mhd116.iptv2022.com/x/8O29TBQbX1L6vs9G6SvzCQ,1791874231/streaming/luxury/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10064/logo_256_1658733449.png", 7ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Pqqeu8Ef2rX03twZPrP1jg,1791795104/streaming/7tv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10128/logo_256.png", Смайл ТВ
+https://mhd116.iptv2022.com/x/YQBCJQrYCs3dC48W3H78aw,1791874231/streaming/7tv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10128/logo_256.png", Смайл ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/wWwCxkPrc2BQxAx-ZS2mLQ,1791795104/streaming/smile/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10149/logo_256.png", Продвижение
+https://mhd116.iptv2022.com/x/bigX7ErOy5XP_oHNnysWkg,1791874231/streaming/smile/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10149/logo_256.png", Продвижение
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/frSpzYdq2msniJhqk5nNzw,1791795104/streaming/prodvijenie/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16472/logo_256_1674733090.png", Старт Триумф
+https://mhd116.iptv2022.com/x/o0DuWpVH5qbwuHthosTjrg,1791874231/streaming/prodvijenie/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16472/logo_256_1674733090.png", Старт Триумф
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/4DVrlH2gc8jY2okRXIgsLg,1791795104/streaming/start-triumf/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10120/logo_256_1660805741.png", Министерство Идей
+https://mhd116.iptv2022.com/x/_M_Lz6Lq44BLXkij_uaRtA,1791874231/streaming/start-triumf/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10120/logo_256_1660805741.png", Министерство Идей
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Lkb9sGDRI7VI-QCtOGrUeA,1791795104/streaming/minidei/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10145/logo_256_1660807386.png", Старт
+https://mhd116.iptv2022.com/x/yJxOesvVGHccLUd1LmzNlw,1791874231/streaming/minidei/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10145/logo_256_1660807386.png", Старт
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/EDCRAStB2sMy3P8H9BRqTg,1791795104/streaming/start/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10310/logo_256.png", Мото Драйв ТВ
+https://mhd116.iptv2022.com/x/otIfmEQgHW_2CBgZ-vQWIw,1791874231/streaming/start/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10310/logo_256.png", Мото Драйв ТВ
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/s3_e_Thf207XH8GSshwA2A,1791795104/streaming/moto_drive/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/24648/logo_256_1712305656.png", LEOMAX24
+https://mhd116.iptv2022.com/x/ikukS7yme--nI9qnfRRThw,1791874231/streaming/moto_drive/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/24648/logo_256_1712305656.png", LEOMAX24
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Q_ki1on9z2zsbvZ6jXorKA,1791795104/streaming/leomax24/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/28666/logo_256.png", Плюс минус 16
+https://mhd116.iptv2022.com/x/9JYjR9NZeA9ey8sGxyD6EQ,1791874231/streaming/leomax24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/28666/logo_256.png", Плюс минус 16
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/XpOl7-uaGtFcHWvt72a-1Q,1791795104/streaming/russian_ship/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10163/logo_256_1660805461.png", Курай
+https://mhd116.iptv2022.com/x/FBEgdsrTu9wveaOl-lZ_Og,1791874231/streaming/russian_ship/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10163/logo_256_1660805461.png", Курай
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/_HQuBjkst5OqX_HP6Fp96w,1791795104/streaming/curai/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13490/logo_256_1660802549.png", Kinoliving
+https://mhd116.iptv2022.com/x/2XdrQmNPC6eDldUm-3djuQ,1791874231/streaming/curai/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13490/logo_256_1660802549.png", Kinoliving
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/Relyvih8SpbUm3SUH7OLiQ,1791795104/streaming/kinoliving/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime 🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13728/logo_256_1660803734.png", World Fashion Channel HD
+https://mhd116.iptv2022.com/x/jZSPYQ_HkNHm_vD1KJChjw,1791874231/streaming/kinoliving/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime  🇷🇺" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13728/logo_256_1660803734.png", World Fashion Channel HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/jJ3xtAPD-ZD52jGpmcaZ4g,1791795104/streaming/world_fashion/324/1/index.m3u8
+https://mhd116.iptv2022.com/x/3CrHqQkcOxhtk0a1zimsMg,1791874231/streaming/world_fashion/324/1/index.m3u8
 
 
 
@@ -558,37 +558,37 @@ http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
-http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
-http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA4OjUxOjQ2IEFNJmhhc2hfdmFsdWU9Ti9ybTJhRmNUWUIya0NteU93dG9pdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
@@ -678,293 +678,294 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
 
 
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Первый канал HD
+
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Первый канал HD
 https://stream3.cinerama.uz/1214/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Первый канал
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Первый канал
 https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",НТВ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",НТВ
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Россия К
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Россия К
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Россия 24
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Россия 24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Россия 1
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Россия 1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Техно 24
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Техно 24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Приключения
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Первый Космический
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Первый Космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Охотник и Рыболов HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Охотник и Рыболов HD
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Дикая охота HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Дикая охота HD
 https://stream8.cinerama.uz/1412/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Дикий
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Дикий
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Охота и Рыбалка
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Охота и Рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Наша Сибирь
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Наша Сибирь
 https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Наука
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Наука
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Моя Планета
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Моя Планета
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Живая Природа HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Живая Природа HD
 https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Глазами Туриста
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Глазами Туриста
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Вопросы и Ответы
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Вопросы и Ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",В Мире Животных
+#EXTINF:-1 group-title="Turon Media   🇷🇺",В Мире Животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Viasat Nature
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Viasat Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Viasat History
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Viasat History
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Viasat Explore
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Viasat Explore
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",NAT GEO WILD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",NAT GEO WILD
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Animal Planet
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Animal Planet
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",National Geographic
+#EXTINF:-1 group-title="Turon Media   🇷🇺",National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Discovery Science
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Discovery Science
 https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Insight TV HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Точка РФ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Точка РФ
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",История
+#EXTINF:-1 group-title="Turon Media   🇷🇺",История
 https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Живая Планета
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Живая Планета
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Усадьба
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Точка Отрыва
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",ТВЦ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",ТВЦ
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Сарафан
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Сарафан
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Ретро
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Ретро
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Мир 24
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Мир 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Мир
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Мир
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Кухня ТВ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Кухня ТВ
 https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Кинопоказ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Наше Новое Кино
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Наше Новое Кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Родное Кино
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Родное Кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Кинохит
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Киносерия
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Киносерия
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Киносемья
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Киносемья
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Киносвидание
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Киносвидание
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Мужское кино
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Мужское кино
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Кинопремьера
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Киномикс
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Киномикс
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Кинокомедия
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Индийское Кино
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Капитан Фантастика HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Капитан Фантастика HD
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",VIP Serial
+#EXTINF:-1 group-title="Turon Media   🇷🇺",VIP Serial
 https://stream8.cinerama.uz/1224/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",VIP Comedy
+#EXTINF:-1 group-title="Turon Media   🇷🇺",VIP Comedy
 https://stream8.cinerama.uz/1061/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",VIP Premiere
+#EXTINF:-1 group-title="Turon Media   🇷🇺",VIP Premiere
 https://stream8.cinerama.uz/1056/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",TV1000
+#EXTINF:-1 group-title="Turon Media   🇷🇺",TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",TV1000 Русское Кино
+#EXTINF:-1 group-title="Turon Media   🇷🇺",TV1000 Русское Кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",TV1000 ACTION HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",TV1000 ACTION HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Bollywood
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Bollywood
 https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Hollywood
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Зоопарк
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Зоопарк
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Здоровое ТВ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Здоровое ТВ
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Звезда
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Звезда
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Живи Активно HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Живи Активно HD
 https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Живи
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Живи
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Драйв
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Драйв
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Дорама
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Домашние Животные
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Домашние Животные
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Дом Кино
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Доктор
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Доктор
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Арсенал HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Арсенал HD
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Авто Плюс
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Авто Плюс
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Авто 24
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Казахстан 24
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Казахстан 24
 https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Zor TV HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Zor TV HD
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Yoshlar
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Yoshlar
 https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Uzbekiston
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Uzbekiston
 https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Turan TV
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Turan TV
 https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",TRT Muzik
+#EXTINF:-1 group-title="Turon Media   🇷🇺",TRT Muzik
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",TRT Haber
+#EXTINF:-1 group-title="Turon Media   🇷🇺",TRT Haber
 https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",TRT Avaz
+#EXTINF:-1 group-title="Turon Media   🇷🇺",TRT Avaz
 https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Toshkent
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Toshkent
 https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Taraqqiyot TV UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Taraqqiyot TV UZ
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Sevimili UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Sevimili UZ
 https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Renessans TV UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Renessans TV UZ
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Qasaqstan
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Qasaqstan
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Ozbekiston Tarixi HD UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Ozbekiston Tarixi HD UZ
 https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Uzbekistan 24
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Uzbekistan 24
 https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Nurafshon TV UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Nurafshon TV UZ
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Ntv UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Ntv UZ
 https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Navo
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Navo
 https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",NHK World Japan
+#EXTINF:-1 group-title="Turon Media   🇷🇺",NHK World Japan
 https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Myday TV
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Myday TV
 https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",My5 UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",My5 UZ
 https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Milliy TV UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Milliy TV UZ
 https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Mening Yurtim FHD UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Mening Yurtim FHD UZ
 https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Mahalla
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Mahalla
 https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Madaniyat va marifat
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Madaniyat va marifat
 https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Lux TV
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Lux TV
 https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Kinoteatr
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Kinoteatr
 https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",KBS WORLD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",KBS WORLD
 https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Istiqlol TV
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Istiqlol TV
 https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",France 24
+#EXTINF:-1 group-title="Turon Media   🇷🇺",France 24
 https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Fox News
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Fox News
 https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Foreign Languages UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Foreign Languages UZ
 https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Fashion TV
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Fashion TV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Euronews
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Euronews
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",English Club
+#EXTINF:-1 group-title="Turon Media   🇷🇺",English Club
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Dunyo bo`ylab UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Dunyo bo`ylab UZ
 https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",CNN
+#EXTINF:-1 group-title="Turon Media   🇷🇺",CNN
 https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Cinema
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",CGTN
+#EXTINF:-1 group-title="Turon Media   🇷🇺",CGTN
 https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Bolajon
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Bolajon
 https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Bloomberg
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Bloomberg
 https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Biz Cinema UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Biz Cinema UZ
 https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",BizTV HD UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",BizTV HD UZ
 https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",BBC WORLD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",BBC WORLD
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Aqlvoy TV UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Aqlvoy TV UZ
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",8 Канал
+#EXTINF:-1 group-title="Turon Media   🇷🇺",8 Канал
 https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",365 Дней HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",365 Дней HD
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Duck TV
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Рыжий
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Мама
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Уникум
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Уникум
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Карусель
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Карусель
 https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Da Vinci
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Мультиландия
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Мультиландия
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Смайл ТВ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Смайл ТВ
 https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Мульт
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Мульт
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",В Гостях У Сказки
+#EXTINF:-1 group-title="Turon Media   🇷🇺",В Гостях У Сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Nick Jr
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Nick Jr
 https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Nickelodeon
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Nickelodeon
 https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Tiji
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Tiji
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Gulli Girl
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Музыка Первого
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Ля-Минор
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Ля-Минор
 https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",СТВ  Музыка HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",СТВ  Музыка HD
 https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",ТНТ Music
+#EXTINF:-1 group-title="Turon Media   🇷🇺",ТНТ Music
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",МузТВ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",МузТВ
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Муз ТВ UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Муз ТВ UZ
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",RU.TV
+#EXTINF:-1 group-title="Turon Media   🇷🇺",RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Globus Music
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Globus Music
 https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",Biz Music HD UZ
+#EXTINF:-1 group-title="Turon Media   🇷🇺",Biz Music HD UZ
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media  🇷🇺",1HD
+#EXTINF:-1 group-title="Turon Media   🇷🇺",1HD
 https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 
 
