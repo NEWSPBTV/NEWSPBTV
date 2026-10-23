@@ -1499,7 +1499,7 @@ https://tinyurl.com/4tfv9tup/18036/index.m3u8
 #EXTINF:-1 group-title="Фильмовые 📽️",Start Air
 http://195.64.140.147:10063/63
 #EXTINF:-1 group-title="Фильмовые 📽️",Start World HD
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+https://tinyurl.com/upwnsw7p/19248/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Фильмовые 📽️", Фильмовые 📽️премьера HD
 http://5.188.159.128:8070/KINOPREMIERA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Фильмовые 📽️", Фильмовые 📽️премьера
@@ -1555,7 +1555,7 @@ https://tinyurl.com/teh55yef/10060/index.m3u8
 #EXTINF:-1 group-title="Фильмовые 📽️",Hollywood
 http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 group-title="Фильмовые 📽️",ЕвроФильмовые 📽️
-http://195.64.140.147:10088/88
+http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kineko.png" tvg-id="kineko" group-title="Фильмовые 📽️",Кинеко
 http://185.121.1.163:8083/Kineko/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epg.iptvx.one/picons/lubimoe-kino.png" group-title="Фильмовые 📽️",Любимое Фильмовые 📽️
@@ -1589,7 +1589,7 @@ http://stream.mcquack.net/196/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" tvg-id="kino-tv" group-title="Фильмовые 📽️",Фильмовые 📽️ТВ HD
 http://tv.ttk.mx:9113
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epg.iptvx.one/picons/kino-tv-pl4.png" group-title="Фильмовые 📽️",Фильмовые 📽️ТВ
-http://185.46.16.239:8000/Kino_TV
+http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/blokbaster.png" tvg-id="blokbaster-hd" group-title="Фильмовые 📽️", Блокбастер HD
 https://tinyurl.com/2x47stw5/1031.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Фильмовые 📽️", Хит HD
@@ -1785,6 +1785,7 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Фильмовые 📽️" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY PROMO
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 
 Spirt007📽️
 #EXTINF:-1 tvg-id="kino1-tviksel" tvg-logo="https://epg.iptvx.one/picons/kino1-tviksel.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Фильмовые 📽️",Kino 1
@@ -2027,7 +2028,7 @@ http://tv.ttk.mx:9071
 #EXTINF:-1 group-title="Познавательные 🔭",Планета HD
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные 🔭",Big Planet HD
-http://212.15.51.20:8000/play/a034/index.m3u8
+https://tinyurl.com/4tfv9tup/20036/index.m3u8
 #EXTINF:-1 group-title="Познавательные 🔭",Terra HD
 http://195.64.140.147:10150/150
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные 🔭", TLC
