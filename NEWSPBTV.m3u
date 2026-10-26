@@ -1392,11 +1392,8 @@ http://315e5a5d.ottrast.com/iptv/CWL2N4KECYYAXS/220/index.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png" group-title="Спорт ⚽",Матч! Премьер
 http://315e5a5d.ottrast.com/iptv/CWL2N4KECYYAXS/531/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-logo="https://epg.iptvx.one/picons/okko-football.png" group-title="Спорт ⚽",Okko Futbol
-http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Спорт ⚽",Okko Prajm Sport
-http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Спорт ⚽",Okko Sport
-http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" group-title="Спорт ⚽",KHL Prime
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-logo="https://epg.iptvx.one/picons/kxl.png" group-title="Спорт ⚽",KHL
@@ -2128,7 +2125,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rutube-tv.png" tvg-id="no_epg" group-title="Досуг 🎭", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0n7KfJ7ClPM1At-kR4sR8g&e=2072265313&scheme=https
-
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://epg.iptvx.one/picons/sts-love.png" group-title="Досуг 🎭",CTC Love
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" group-title="Досуг 🎭",THT4 HD
