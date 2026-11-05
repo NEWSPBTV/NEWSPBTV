@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
 
-#EXTINF:-1 group-title="🍁Обновлен 04.11"
+#EXTINF:-1 group-title="🍁Обновлен 05.11"
 
 
 
@@ -1606,6 +1606,10 @@ https://tinyurl.com/4tfv9tup/2163/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Фильмовые 📽️",Kion Хит HD
 https://tinyurl.com/teh55yef/20211/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wT4GQmho5C5yL5oL-zQ3CM0nwNVaJfL5gY2a2tMYWlx2vGYb7NchraGKPoT_m9HttVyW9YNR=s400-c-k-c0x00ffffff-no-rj" tvg-id="no_epg_cinema" group-title="Фильмовые 📽️",Kino HD
+http://91.205.196.7:8000/play/a00z
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/LiJ65fO43twO-ygsWkeMDoPJtK-7KBRBCugaz4gtXczaEg1c-aR_r9Xo6QsoPbeFHt-sSJBbgg=s400-c-k-c0x00ffffff-no-rj" tvg-id="no_epg_cinema" group-title="Фильмовые 📽️",Top Films HD
+http://91.205.196.7:8000/play/a03e
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Фильмовые 📽️", Фильмовые 📽️ и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2025-03-14/87/c6/87c6d211fd30f5019ebf2bc074b5f7e5.jpg" tvg-id="no_epg" group-title="Фильмовые 📽️",Фильмовые 📽️лаффка HD
@@ -1628,7 +1632,7 @@ https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=w3
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=GDM7F7_8DDUK3Mdk_lwaPg&e=2088894153&scheme=https
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/2026-09-25/5a/a0/5aa0eed5d8dc6717a6f94eb372c292a6.jpg" tvg-id="no_epg_cinema" group-title="Фильмовые 📽️",Вселенная DC
 https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=0i0UxMXinBBJLYqr2S11DA&e=2091611145&scheme=https
-#EXTINF:-1 tvg-logo="https://www.tvigle.ru/media/channels/images/kinomenu_500.png" tvg-id="no_epg_cinema" group-title="Фильмовые 📽️", Фильмовые 📽️Меню HD
+#EXTINF:-1 tvg-logo="https://www.tvigle.ru/media/channels/images/kinomenu_500.png" tvg-id="no_epg_cinema" group-title="Фильмовые 📽️",Меню HD
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/UFOTVM/LOGO/refs/heads/main/scripach.png" group-title="Фильмовые 📽️",Скрипач ТВ HD
 http://kinowalk.hopto.org/scripachtv_live
@@ -2121,6 +2125,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rutube-tv.png" tvg-id="no_epg" group-title="Досуг 🎭", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0n7KfJ7ClPM1At-kR4sR8g&e=2072265313&scheme=https
+
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://epg.iptvx.one/picons/sts-love.png" group-title="Досуг 🎭",CTC Love
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" group-title="Досуг 🎭",THT4 HD
