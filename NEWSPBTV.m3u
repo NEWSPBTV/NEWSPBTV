@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
 
-#EXTINF:-1 group-title="🍁Обновлен 15.11"
-
-
-
+#EXTINF:-1 group-title="🍁Обновлен 16.11"
 
 
 
@@ -151,37 +148,37 @@ http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
-http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
-http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA4OjI2OjU5IEFNJmhhc2hfdmFsdWU9UGppSWJsNkdxZHRMNlUveDcxZlRlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiA4OjAwOjQxIEFNJmhhc2hfdmFsdWU9cCtvTEFwZm04Z2x0VmVhdVFvTHRJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,1TV Sport
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,DiviSport
@@ -978,8 +975,6 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png" group-title="Спорт ⚽",Матч! Премьер
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" tvg-logo="https://epg.iptvx.one/picons/okko-football.png" group-title="Спорт ⚽",Okko Futbol
-#EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Спорт ⚽",Okko Prajm Sport
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Спорт ⚽",Okko Sport
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" group-title="Спорт ⚽",KHL Prime
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-logo="https://epg.iptvx.one/picons/kxl.png" group-title="Спорт ⚽",KHL
@@ -1001,7 +996,6 @@ http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://iptvx.one/picons/extreme-sports.png" group-title="Спорт ⚽",Extreme Sports
 http://iptv.mega.net.ru:8888/Extreme_Sport/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спорт ⚽",Старт
-#EXTINF:-1 tvg-id="start-basket" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="Спорт ⚽",Старт Баскет
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Спорт ⚽",Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спорт ⚽",Беларусь 5 HD
@@ -1722,7 +1716,6 @@ http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные 🔭",National Geographic Wild
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png" group-title="Познавательные 🔭",Big Planet HD
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные 🔭",Discovery Channel HD
 #EXTINF:-1 tvg-id="nano-tv" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные 🔭",Нано HD
 http://stream.mcquack.net/419/index.m3u8
 
@@ -1877,8 +1870,6 @@ https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Досуг 🎭",Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://iptvx.one/picons/centralnoye-tv.png" group-title="Досуг 🎭",ЦТВ
-#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Досуг 🎭",TV1 KG HD (Кыргызстан)
-#EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Досуг 🎭",Ключ
 #EXTINF:-1 tvg-id="hd-life" tvg-logo="https://epg.iptvx.one/picons/hdl.png" group-title="Досуг 🎭",Точка РФ
 http://iptv.mega.net.ru:8888/HD_Life/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Досуг 🎭",Ностальгия
@@ -1898,8 +1889,6 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="raz2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Досуг 🎭",RAZ 2
 http://stream.mcquack.net/464/index.m3u8
-#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг 🎭",АВТО 24
-http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://epg.iptvx.one/picons/avto-plus.png" group-title="Досуг 🎭",Авто Плюс
 https://stream8.cinerama.uz/1036/index.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Досуг 🎭",Драйв
@@ -1919,7 +1908,6 @@ http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="Досуг 🎭",Дикий HD
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Досуг 🎭",Еда
-#EXTINF:-1 tvg-id="zhivi" tvg-logo="https://epg.iptvx.one/picons/zhivi.png" group-title="Досуг 🎭",Живи
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Досуг 🎭",Загородная Жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Досуг 🎭",Загородный HD
@@ -1928,8 +1916,6 @@ https://stream8.cinerama.uz/1044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг 🎭",Kulinar TV
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Досуг 🎭",Мужской
-#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Досуг 🎭",Наша Тема
-#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="Досуг 🎭",Открытый мир
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Досуг 🎭",Охота и рыбалка HD
 https://stream8.cinerama.uz/1038/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Досуг 🎭",Охотник и рыболов
@@ -1939,8 +1925,6 @@ https://stream8.cinerama.uz/1420/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Досуг 🎭",Глазами туриста HD
 https://stream8.cinerama.uz/1423/index.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Досуг 🎭",Поехали!
-#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Досуг 🎭",Телепутешествия
-#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Досуг 🎭",Светлое ТВ
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://epg.iptvx.one/picons/kuxnia-tv.png" group-title="Досуг 🎭",Кухня
 http://iptv.mega.net.ru:8888/kuhnya_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг 🎭",Kulinar TV
