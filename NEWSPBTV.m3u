@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
 
-#EXTINF:-1 group-title="🍁Обновлен 19.11"
+#EXTINF:-1 group-title="🍁Обновлен 20.11"
 
 
 
@@ -1130,7 +1130,7 @@ http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/flixsnip.png" tvg-id="flixsnip" group-title="Фильмовые 📽️",FlixSnip HD
 https://tinyurl.com/teh55yef/10060/index.m3u8
 #EXTINF:-1 group-title="Фильмовые 📽️",Hollywood
-http://dmitry-tv.ddns.net/hls/CH_HOLLYWOOD.m3u8
+http://62.89.17.130:4451/play/a005/index.m3u8
 #EXTINF:-1 group-title="Фильмовые 📽️",ЕвроФильмовые 📽️
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kineko.png" tvg-id="kineko" group-title="Фильмовые 📽️",Кинеко
@@ -1210,7 +1210,6 @@ https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=GD
 https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=0i0UxMXinBBJLYqr2S11DA&e=2091611145&scheme=https
 #EXTINF:-1 tvg-logo="https://www.tvigle.ru/media/channels/images/kinomenu_500.png" tvg-id="no_epg_cinema" group-title="Фильмовые 📽️", Фильмовые 📽️Меню HD
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/UFOTVM/LOGO/refs/heads/main/scripach.png" group-title="Фильмовые 📽️",Скрипач ТВ HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/UFOTVM/LOGO/refs/heads/main/SeleCaoTV.png" group-title="Фильмовые 📽️",SeleCaoTV Фильм
@@ -1372,9 +1371,6 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Фильмовые 📽️" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY PROMO
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-
-
 
 Spirt007📽️
 #EXTINF:-1 tvg-id="kino1-tviksel" tvg-logo="https://epg.iptvx.one/picons/kino1-tviksel.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Фильмовые 📽️",Kino 1
@@ -1614,7 +1610,7 @@ UFO🔭
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" tvg-id="animal-planet-eu" group-title="Познавательные 🔭",Animal Planet HD
 http://91.205.196.7:8000/play/a029
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные 🔭",Discovery Channel HD
-https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=G_MLL6rXsWu3E14ydKWGCg&e=2088894145&scheme=https
+http://91.205.196.7:8000/play/a023
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные 🔭",History HD
 http://181.224.200.5:2277/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Познавательные 🔭" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
@@ -1622,7 +1618,7 @@ http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные 🔭",Nat Geo Wild HD
 http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательные 🔭",National Geographic HD
-https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=XIlYETIzEf8C7a-PCDWWwA&e=2088331934&scheme=https
+http://91.205.196.7:8000/play/a024
 #EXTINF:-1 group-title="Познавательные 🔭",Viasat Explore HD
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные 🔭",Visast History HD
