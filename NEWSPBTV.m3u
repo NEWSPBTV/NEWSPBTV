@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
 
-#EXTINF:-1 group-title="🍁Обновлен 22.11"
+#EXTINF:-1 group-title="🍁Обновлен 23.11"
 
 
 
@@ -148,37 +148,37 @@ http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
-http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
-http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNiA4OjI3OjM3IEFNJmhhc2hfdmFsdWU9ME04VzNoajN2WFhENG5JNlNuYXQ0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNiA4OjQxOjUyIEFNJmhhc2hfdmFsdWU9SjN6ZWFjRWlCY3ZFc3NsYmVCMlBPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,1TV Sport
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,DiviSport
@@ -1026,7 +1026,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 UFO📽️
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Фильмовые 📽️",Amedia 1 HD
-http://stream.mcquack.net/117/index.m3u8
+https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Фильмовые 📽️",Amedia 2 HD
 http://tv.ttk.mx:9156
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Фильмовые 📽️", Amedia Hit HD
@@ -1090,7 +1090,7 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" tvg-id="kinokomedia" group-title="Фильмовые 📽️", Фильмовые 📽️комедия
-http://stream.mcquack.net/265/index.m3u8
+http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Фильмовые 📽️",Фильмовые 📽️ужас HD
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Фильмовые 📽️",Фильмовые 📽️ужас
@@ -1351,12 +1351,12 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="Фильмовые 📽️",Смотрим 100% Детское HD
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-id="no_epg_mult" group-title="Фильмовые 📽️" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Фильмовые 📽️" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Фильмовые 📽️" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="Фильмовые 📽️" tvg-logo="https://light.tvp.pp.ru/picons/082a8fde4f8602f51c96f92ef066399788e4f7a1402fe879b4d0a6ee931832da.png", ФАНТАСТИКА HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3914.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Фильмовые 📽️" tvg-logo="https://light.tvp.pp.ru/picons/4fab7cdee25052675035e1f7d6c265260536bfa18b2d3ee055508e88783602fc.png", IPTVPLAY ВЕДЬМАК
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3919.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Фильмовые 📽️" tvg-logo="https://light.tvp.pp.ru/picons/e3298fc1c4e3c2e08f084d9cbfbccdc8f9656e75c6f11a8f3b1d9d90da521bf4.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3988.m3u8
 #EXTINF:-1 tvg-id="cityedem-kinomist" group-title="Фильмовые 📽️"  tvg-logo="https://epg.iptvx.one/picons/cityedem-kinomist.png", Киномистика
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Фильмовые 📽️" tvg-logo="https://www.cityeden.info/_bl/23/76607580.png", КиноФантастика
@@ -1365,12 +1365,13 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-id="cityedem-kinoact" group-title="Фильмовые 📽️" tvg-logo="https://epg.iptvx.one/picons/cityedem-kinoact.png", КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Фильмовые 📽️" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/9415.png" group-title="Фильмовые 📽️",IPTVPLAY MORTAL KOMBAT
-http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Фильмовые 📽️" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY PROMO
-http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Фильмовые 📽️" tvg-logo="https://light.tvp.pp.ru/picons/2030f1454c2aac8d5e1fe8f13731502cc60393e2acafaa94bfd1ca21e888d6cf.png", IPTVPLAY Великая Отечественная HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3918.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://light.tvp.pp.ru/picons/41b389b25e6a29309d30124b61876231007a64eddcc5b12ce37eeac0bed3833d.png" group-title="Фильмовые 📽️",IPTVPLAY УЖАСТИК HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3916.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Фильмовые 📽️" tvg-logo="https://light.tvp.pp.ru/picons/92e4429de7e67346abb3d6ff8d815dc8abe1a543fca1536f1ec4e0199b8f282c.png", IPTVPLAY ПАМЯТЬ HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3915.m3u8
+
 
 Spirt007📽️
 #EXTINF:-1 tvg-id="kino1-tviksel" tvg-logo="https://epg.iptvx.one/picons/kino1-tviksel.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Фильмовые 📽️",Kino 1
@@ -1612,17 +1613,17 @@ http://91.205.196.7:8000/play/a029
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные 🔭",Discovery Channel HD
 http://91.205.196.7:8000/play/a023
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные 🔭",History HD
-http://181.224.200.5:2277/play/a02b/index.m3u8
+http://181.119.215.61:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Познавательные 🔭" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные 🔭",Nat Geo Wild HD
-http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=-r71goYaZD8bUUJNI1UAeQ&e=2090404628&scheme=https
 #EXTINF:-1 group-title="Познавательные 🔭",National Geographic HD
 http://91.205.196.7:8000/play/a024
 #EXTINF:-1 group-title="Познавательные 🔭",Viasat Explore HD
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные 🔭",Visast History HD
-http://stream.mcquack.net/101/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_HISTORYHD.m3u8
 #EXTINF:-1 group-title="Познавательные 🔭",Viasat Nature HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
